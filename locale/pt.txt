@@ -33,6 +33,11 @@ panorama_C3937BA1_C9BC_EE77_41DB_4C81C60F2F10.label = IMG_20230112_174027_00_mer
 panorama_C39399AF_C9BB_EA4B_41D3_E04B15194CB4.label = IMG_20230112_174522_00_merged
 panorama_C393BDB9_C9BC_6A57_41D7_559060A999DB.label = IMG_20230112_174306_00_merged
 
+## Popup
+
+### Body
+htmlText_C98CABE5_D0FD_229F_41CA_00CD6E104059.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
 ## Action
 
 ### URL
